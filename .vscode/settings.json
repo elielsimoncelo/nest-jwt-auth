@@ -1,0 +1,12 @@
+{
+    "material-icon-theme.activeIconPack": "nest",
+    "editor.semanticHighlighting.enabled": true,
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "javascript.inlayHints.variableTypes.enabled": true,
+    "typescript.inlayHints.variableTypes.enabled": true,
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "typescript.inlayHints.parameterNames.enabled": "all",
+    "editor.tabSize": 2,
+    "prettier.tabWidth": 2,
+    "prettier.useTabs": true
+}
